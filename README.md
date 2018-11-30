@@ -1,3 +1,9 @@
+## Project Info
+
+This is a test task for RelateData. 
+In the test it was necessary to impose 2 table using  AG-Grid library
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
